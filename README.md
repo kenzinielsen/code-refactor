@@ -13,5 +13,4 @@ A website that offers social media marketing, search engine optimization and onl
 
 Made with ❤️ by Kenzi Nielsen
 
-### ©️2019 Horiseon Social Solution Services, Inc 
-# Run Buddy, Inc
+### ©️2019 Horiseon Social Solution Services, Inc.
